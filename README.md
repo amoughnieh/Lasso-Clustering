@@ -19,7 +19,7 @@ The project utilizes data from the Kaggle competition: [Rossmann Store Sales](ht
 
 ### Required Data
 
-Only the training data file, `train.csv`, from the competition is needed to run the primary analysis notebook (`main.ipynb`). The analysis itself, following the EE paper's approach for simulating sparse data, runs on a 200k subsample derived from this file.
+Only the training data file, `train.csv`, from the competition is needed to run the primary analysis notebook `main.ipynb`.
 
 **Important:** Due to its size, `train.csv` is **not** included in this repository. You must download it directly from the Kaggle competition page linked above.
 
